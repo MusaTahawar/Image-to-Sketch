@@ -36,7 +36,7 @@ The script follows these main steps:
 
 2. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/pencil-sketch-effect.git
+    git clone https://github.com/Musatahawar/image-to-sketch.git
     ```
 
 3. **Run the Script:**
